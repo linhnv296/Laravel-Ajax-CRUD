@@ -3,6 +3,7 @@ $(document).ready(function(){
 
     //get base URL *********************
     var url = $('#url').val();
+    console.log(url);
 
 
     //display modal form for creating new product *********************
